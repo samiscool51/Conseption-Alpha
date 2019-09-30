@@ -1,5 +1,6 @@
 # Conseption-Alpha
 This is the Official Conseption Alpha Bug Tracker.
+https://www.technicpack.net/modpack/conseption-alpha.1395859
 
 It helps me track bugs/issues/glitchs with Conseption Alpha and resolve them.
 
